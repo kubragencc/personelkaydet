@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144140490675",
+    "project_id": "personelkaydet-de858",
+    "storage_bucket": "personelkaydet-de858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144140490675:android:dbdc0e890266b87a215dc6",
+        "android_client_info": {
+          "package_name": "kubra.gnc.mesaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144140490675-4h60gf7n1hgaffb8o6smf0600btso408.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtLZQwkqEZr3ifkUIIVt7qdjPkjqCcjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144140490675-4h60gf7n1hgaffb8o6smf0600btso408.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
